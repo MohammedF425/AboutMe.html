@@ -1,0 +1,35 @@
+body {
+    background: purple;
+    color: black;
+  }
+  
+  a:link{
+      color: aqua;
+  }
+   a:visited{
+      color: black;
+  }
+   a:active {
+    color: red;
+  }
+  
+  a:hover {
+    background: rgb(128, 0, 111);
+    font-family: monospace;
+    color: yellow;
+    text-decoration: none;
+  }
+ table {
+    background: black;
+    color: blanchedalmond;
+  }
+  
+  ul {
+    background: rgb(221, 24, 24);
+  }
+  
+  li {
+    font-size: 16pt;
+    border: solid;
+    border-width: thin;
+  }
